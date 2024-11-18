@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NyeKo
 - 👀 I’m interested in learning everything
-- 🌱 I’m currently learning NodeJs ADONISjs and GO
+- 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate on anything you want
 - 📫 How to reach me (find out later)
 
